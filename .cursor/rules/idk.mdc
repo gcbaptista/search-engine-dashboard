@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+- Always be coherent on what is defined in docs/CLAUDE.md. If any assumption on this file changes, make sure you reflect on it.
